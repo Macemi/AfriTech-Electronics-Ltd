@@ -61,7 +61,7 @@ Highlights sales performance, product trends, purchase patterns, recall behavior
 ---
 
 ## Data Preparation  
-AfriTech Electronics Ltd. Dataset is a Microsoft Excel dataset containing multiple columns. The dataset is thoroughly cleaned—free of errors, duplicates, white spaces, and null values—ensuring it is reliable, original, comprehensive, up-to-date, and well-cited.  
+AfriTech Electronics Ltd. Dataset is a Microsoft Excel dataset containing multiple columns. The dataset is thoroughly cleaned free of errors, duplicates, white spaces, and null values, ensuring it is reliable, original, comprehensive, up-to-date, and well-cited.  
 
 The cleaned data was then imported into **PostgreSQL**, where structured queries were performed to extract meaningful insights and analyze the most relevant information for our objectives.  
 
